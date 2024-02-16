@@ -12,7 +12,7 @@ Becoming the Technical leader of a new team was challenging but really enriching
 
 ### Tech Slack 💻
 
-
+Javascript (AJAX JSON Jquery) - Ruby on Rails - Perl & ModPerl - Docker - PostgreSQL - HTML5 & CSS3 - Linux - Api's
 
 <!--
 **arturonieto/arturonieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
