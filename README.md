@@ -10,7 +10,7 @@ Passionate about problem solving and logical thinking. Through my years of exper
 
 Becoming the Technical leader of a new team was challenging but really enriching. I was pushed to improve my comunication and leadership skills and, eventhough it was not easy, I ended up enjoying it. Crafting the path of action when talking about software development is not an easy job and I admire and respect everyone who is proficient at this role.
 
-### Tech Slack 💻
+### Tech Stack 💻
 
 Javascript (AJAX JSON Jquery) - Ruby on Rails - Perl & ModPerl - Docker - PostgreSQL - HTML5 & CSS3 - Linux - Api's
 
